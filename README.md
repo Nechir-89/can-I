@@ -1,5 +1,5 @@
 # Can I Code
-**Can I Code:** is a coding program for improving coding skills by solving real world coding problems. The coding challanges and problems are explainded in YouTube videos and have issues opened on GitHub.
+**Can I Code:** are coding programs for improving coding skills by solving real world coding problems. The coding challanges and problems are explainded in YouTube videos and have issues opened on GitHub.
 
 
 ### Available programs
